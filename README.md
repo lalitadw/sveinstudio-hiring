@@ -14,7 +14,7 @@ We are currently looking for passionate and purpose-driven talents to join our g
 
 ### 1. Head of Creative Strategy
 Craft vision into structure. Build design systems that think.  
-→ [View job description](#)
+→ [View job description](./head-of-creative-strategy.md)
 
 ### 2. Head of Production  
 Architect flow. Build production that moves with rhythm and precision.  

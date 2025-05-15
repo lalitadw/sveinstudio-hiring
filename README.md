@@ -1,5 +1,6 @@
 # sveinstudio-hiring
 We're hiring! Creative roles, CGI, software R&D, and more at SVEIN Studio.
+
 # We're Hiring – SVEIN Studio
 
 Welcome to SVEIN’s official hiring repository.  
@@ -35,7 +36,7 @@ Read the market. Sense the risk. Build the bridge between vision and viability.
 
 ## 📫 How to Apply
 
-Send us an email at [hello@sveinstudio.com](mailto:hello@sveinstudio.com) with:
+Send us an email at [lalita.hrsvein@gmai.com](mailto:lalita.hrsvein@gmail.com) with:
 - Your portfolio / GitHub / LinkedIn
 - The position you're interested in
 - A short paragraph on why you'd love to work with us
